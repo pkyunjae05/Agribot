@@ -8,6 +8,8 @@
 
 * http://wiki.ros.org/turtlebot3_description 를 참고하여 작성
 
+* 로봇의 Frame, 2D LiDAR, IMU 등 위치 수정
+
 ## 현재 위치 받기
 
 * http://wiki.ros.org/tf/Tutorials를 참고
